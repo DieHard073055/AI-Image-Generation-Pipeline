@@ -40,3 +40,51 @@ Make sure to have the appropriate dependencies and configurations for both the W
 
 Contributing
 Feel free to contribute to this project by submitting pull requests or opening issues for discussion. Please ensure that your contributions adhere to the existing coding style and infrastructure setup.
+
+## Sample Images Generated from the pipeline
+<details>
+  <summary>Click to expand and view sample images</summary>
+
+  ![Image](images/1682324799.png)
+  ![Image](images/1682324833.png)
+  ![Image](images/1682324857.png)
+  ![Image](images/1682324869.png)
+  ![Image](images/1682324927.png)
+  ![Image](images/1682325036.png)
+  ![Image](images/1682325048.png)
+  ![Image](images/1682325285.png)
+  ![Image](images/1682325665.png)
+  ![Image](images/1682325676.png)
+  ![Image](images/1682325772.png)
+  ![Image](images/1682325784.png)
+  ![Image](images/1682325913.png)
+  ![Image](images/1682326235.png)
+  ![Image](images/1682326376.png)
+  ![Image](images/1682326461.png)
+  ![Image](images/1682326519.png)
+  ![Image](images/1682326672.png)
+  ![Image](images/1682326710.png)
+  ![Image](images/1682326780.png)
+  ![Image](images/1682327959.png)
+  ![Image](images/1682328029.png)
+  ![Image](images/1682328064.png)
+  ![Image](images/1682328099.png)
+  ![Image](images/1682328254.png)
+  ![Image](images/1682328645.png)
+  ![Image](images/1682328728.png)
+  ![Image](images/1682328751.png)
+  ![Image](images/1682328763.png)
+  ![Image](images/1682328929.png)
+  ![Image](images/1682328952.png)
+  ![Image](images/1682328964.png)
+  ![Image](images/1682329023.png)
+  ![Image](images/1682329237.png)
+  ![Image](images/1682329345.png)
+  ![Image](images/1682329369.png)
+  ![Image](images/1682329509.png)
+  ![Image](images/1682329830.png)
+  ![Image](images/1682329842.png)
+  ![Image](images/1682329877.png)
+  ![Image](images/1682329947.png)
+</details>
+
